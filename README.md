@@ -40,5 +40,12 @@ Charts Requirements
 8. 
 9. Total Sales by Retailer (Bar Chart):Visualize the contribution of different retailers to total sales using a bar chart.
 
+## DASHBOARD OVERVIEW
+
+
+
+<img width="760" height="482" alt="addidas sales pic" src="https://github.com/user-attachments/assets/ff39b852-12fe-40d9-b936-b4b23e3de5cc" />
+
+
 
 
