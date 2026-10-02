@@ -44,7 +44,103 @@ Charts Requirements
 
 
 
-<img width="760" height="482" alt="addidas sales pic" src="https://github.com/user-attachments/assets/ff39b852-12fe-40d9-b936-b4b23e3de5cc" />
+<img width="758" height="484" alt="Addidas sales pic 2" src="https://github.com/user-attachments/assets/db5954ed-d551-4ebb-9128-a7af31ed643e" />
+
+
+
+
+## Analytical Highlight
+ **Total Sales ($900M):** The core revenue driver demonstrating substantial market demand over the two-year period.
+ 
+ **Operating Profit ($332M):** Reflects a strong bottom line after accounting for operational expenses.
+ 
+ **Units Sold (2M):** Indicates massive transaction volume, averaging roughly $450 in sales revenue per unit block or large-scale batch metric depending on data scaling.
+ 
+ **Price per Unit ($45):** The baseline average pricing across all distributed product lines.
+ 
+ **Operating Margin (42%):** A very healthy efficiency metric, highlighting high profitability relative to production and distribution costs.
+
+## Below is an in-depth analysis of each visual component:
+
+**1.Total Sales by Month**
+Sales fluctuated throughout the year, with July recording the highest sales ($95M) and March the lowest ($57M). Sales recovered strongly toward December, reaching $86M.
+
+ **Insight:** The pattern suggests seasonal demand, making monthly trends useful for forecasting, inventory planning, and identifying causes of low-performing periods.
+ 
+**2. Total Sales by State**
+Sales vary considerably across states, with some geographical areas contributing significantly more revenue than others. This indicates differences in customer demand and market performance across locations.
+
+**Insight:** State-level analysis can identify high-performing and underperforming markets, helping businesses optimize marketing, distribution, and inventory allocation.
+
+**3.Total Sales by Region**
+The West region generated the highest sales at $270M (30%), while the Midwest generated $136M (15.1%). Revenue is therefore distributed unevenly across regions.
+
+**Insight:** Regional analysis helps identify where demand is strongest and where targeted strategies may be required to improve market performance.
+
+**4.Total Sales by Product**
+Men's Streetwear led product sales at $209M, followed by Women's Apparel at $179M and Men's Athletic at $154M. Women's Athletic recorded the lowest sales at $107M.
+
+**Data Analyst Insight:** Product-level analysis identifies high-demand categories and supports inventory planning, product strategy, and further investigation into product profitability.
+
+**5.Total Sales by Retailer**
+West Gear generated the highest retailer sales at $243M, followed by Foot Locker ($220M) and Sports Direct ($182M). Walmart recorded the lowest sales at $75M.
+
+**Data Analyst Insight:** Retailer analysis reveals the strongest sales channels and helps businesses optimize inventory distribution, promotional partnerships, and channel performance.
+
+**6. Overall Business Performance**
+The dashboard shows strong overall performance, with $900M sales, $332M operating profit, 2M units sold, $45 price per unit, and a 42% operating margin.
+
+**Data Analyst Insight:** Combining these KPIs with monthly, geographic, product, and retailer analysis provides a broader view of business performance and areas requiring further investigation.
+
+**Business Recommendations**
+
+**•	Improve inventory planning:** Use seasonal sales patterns to prepare stock for high-demand months and avoid shortages or excess inventory.
+
+**•	Investigate low-performing periods:** Analyze the causes of weak sales in March and October and develop targeted strategies.
+
+**•	Focus on strong markets:** Maintain strong performance in the West while identifying opportunities to improve lower-performing regions.
+
+**•	Prioritize high-performing products:** Ensure sufficient stock of popular products such as Men's Streetwear.
+
+**•	Optimize retailer performance:** Strengthen relationships with top-performing retailers while investigating opportunities to improve weaker channels.
+
+**•	Analyze profitability:** Compare sales, costs, and profit margins by product, region, and retailer to support better decisions.
+
+**General Conclusion**
+
+The Adidas Sales Analysis provides a clear view of performance across time, regions, products, states, and retailers. The insights can help management improve inventory planning, marketing, product strategy, and retailer management. Overall, the dashboard demonstrates how data analytics can transform sales data into actionable insights for better business decision-making.
+
+**TOOL USED**
+
+•	Power BI Desktop
+
+•	Power Query
+
+•	DAX (Data Analysis Expression)
+
+•	Microsoft Excel(for raw data preparation)
+
+**Technique Applied**
+•	Data Cleaning and Transformation(Power Query)
+
+•	DAX Calculation (eg, Total Sales, Operating Profit, Units Sold,  Price per Unit, Operating Margin)
+
+•	Interactive filtering(slicers)
+
+•	Dynamic Visualization(Aria, Bar, Donut)
+
+•	Dashboard Design
+
+•	KPI Tracking and Time Series Trend Analysis
+
+
+
+
+
+
+
+
+
 
 
 
