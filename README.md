@@ -80,7 +80,7 @@ The West region generated the highest sales at $270M (30%), while the Midwest ge
 **4.Total Sales by Product**
 Men's Streetwear led product sales at $209M, followed by Women's Apparel at $179M and Men's Athletic at $154M. Women's Athletic recorded the lowest sales at $107M.
 
-**Data Analyst Insight:** Product-level analysis identifies high-demand categories and supports inventory planning, product strategy, and further investigation into product profitability.
+**Insight:** Product-level analysis identifies high-demand categories and supports inventory planning, product strategy, and further investigation into product profitability.
 
 **5.Total Sales by Retailer**
 West Gear generated the highest retailer sales at $243M, followed by Foot Locker ($220M) and Sports Direct ($182M). Walmart recorded the lowest sales at $75M.
@@ -90,7 +90,7 @@ West Gear generated the highest retailer sales at $243M, followed by Foot Locker
 **6. Overall Business Performance**
 The dashboard shows strong overall performance, with $900M sales, $332M operating profit, 2M units sold, $45 price per unit, and a 42% operating margin.
 
-**Data Analyst Insight:** Combining these KPIs with monthly, geographic, product, and retailer analysis provides a broader view of business performance and areas requiring further investigation.
+**Insight:** Combining these KPIs with monthly, geographic, product, and retailer analysis provides a broader view of business performance and areas requiring further investigation.
 
 **Business Recommendations**
 
